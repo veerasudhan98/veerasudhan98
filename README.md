@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGps6SFqkuSbQ/profile-displaybackgroundimage-shrink_350_1400/0/1624903932386?e=1651708800&v=beta&t=vrrInfyR6MrLNZkClCnDrDhozFf9TAf75eW5Pq0zAyE) -->
 <h1 align="center">Hi 👋, I'm Veera Sudhan</h1>
-<h3 align="center">Web tech enthusiast</h3>
+<h3 align="center">Web technology enthusiast</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coder" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerasudhan98&label=Profile%20views&color=0e75b6&style=flat" alt="veerasudhan98" /> </p>
