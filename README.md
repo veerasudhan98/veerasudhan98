@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerasudhan98&&theme=tokyonight" alt="veerasudhan98" /></p>
 
-[![Veera's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=veerasudhan98&&theme=xcode)](https://github.com/veerasudhan98)
